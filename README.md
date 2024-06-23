@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello folks here This is akash and i am a frontend developer based in react js and I have a youtube channel so where u can see my codding project and my blogging website too .and also my aim to become a full stack enegeneer and make new thing in IT industry.
+Hello folks here This is akash and i am a frontend developer based in react js and I have a youtube channel so where u can see my codding project and my blogging website too and also my aim to become a full stack enegeneer and make new thing in IT industry.
 
 
 ## 🌐 Socials:
